@@ -20,9 +20,9 @@
 
 <br>
 
-<div style="text-align: center;">
+<p align="center">
   <img src="images/oc.png" alt="Orca C2 Logo" width="220">
-</div>
+</p>
 
 
 ## 📍 Overview
@@ -141,4 +141,5 @@ electronc2/
 
 > [!CAUTION]
 > **This tool is provided strictly for educational purposes, red team engagements with explicit written permission, and authorized security research.  
+
 > Unauthorized use against any system or network without consent is illegal and unethical.**
