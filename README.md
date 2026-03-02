@@ -65,7 +65,7 @@ Designed for:
 ### Setup
 
 ```bash
-git clone https://github.com/00nx/orca-c2.git
+git clone https://github.com/00nx/orca.git
 
 cd orca-c2
 
@@ -142,5 +142,6 @@ electronc2/
 > **This tool is provided strictly for educational purposes, red team engagements with explicit written permission, and authorized security research.**
 
 > **Unauthorized use against any system or network without consent is illegal and unethical.**
+
 
 
