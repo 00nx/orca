@@ -140,6 +140,7 @@ electronc2/
 > Default port is local at 3010. You will have to use ngrok or cloudflared in order to make it public.
 
 > [!CAUTION]
-> **This tool is provided strictly for educational purposes, red team engagements with explicit written permission, and authorized security research.  
+> **This tool is provided strictly for educational purposes, red team engagements with explicit written permission, and authorized security research.**
 
-> Unauthorized use against any system or network without consent is illegal and unethical.**
+> **Unauthorized use against any system or network without consent is illegal and unethical.**
+
