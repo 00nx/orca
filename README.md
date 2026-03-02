@@ -9,7 +9,6 @@
     Remote command execution • Live streaming output • Elegant TUI dashboard
   </p>
 
-  <!-- Badges (optional – you can add more later) -->
   <p>
     <img src="https://img.shields.io/badge/Node.js-20+-green?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
     <img src="https://img.shields.io/badge/Electron-Forge-blue?style=flat-square&logo=electron" alt="Electron"/>
@@ -143,4 +142,5 @@ electronc2/
 > **This tool is provided strictly for educational purposes, red team engagements with explicit written permission, and authorized security research.**
 
 > **Unauthorized use against any system or network without consent is illegal and unethical.**
+
 
