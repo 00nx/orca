@@ -23,13 +23,22 @@
   <img src="images/oc.png" alt="Orca C2 Logo" width="220">
 </p>
 
-> **⚠️ Strict legal notice**  
-> This project is provided **exclusively for educational purposes, authorized red team engagements, and security research with explicit written permission**.  
-> **Any unauthorized use — including against systems you do not own or have clear authorization to test — is illegal and unethical.**
-> 
+
 ## 📍 Overview
 
 **Orca C2** is a minimalist, educational-purpose command-and-control (C2) framework written in modern JavaScript.
+
+- **Server + TUI Dashboard**  
+  Runs on the operator's machine  
+  Uses Blessed for a clean terminal UI  
+  Real-time device list, command dispatch, live output streaming
+
+- **Client (Implant/Agent)**  
+  Portable Windows `.exe` built with Electron  
+  WebSocket beaconing & command execution (cmd.exe or PowerShell)  
+  Streams command output in real-time (chunked)
+  
+
 
 It consists of two main parts:
 
@@ -145,6 +154,7 @@ electronc2/
 > **This tool is provided strictly for educational purposes, red team engagements with explicit written permission, and authorized security research.**
 
 > **Unauthorized use against any system or network without consent is illegal and unethical.**
+
 
 
 
